@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # Run python in linux or mac os is
-# Terminal>> cd to "location of py" >> python fcps.py
+# Terminal>> cd to "location of py" >> python fcfs.py
 
 
 # **Implement the First Come First Serve (FCFS) non preemptive algorithm by taking user
