@@ -3,10 +3,6 @@
 # Run python in linux or mac os is
 # Terminal>> cd to "location of py" >> python fcps.py
 
-# ### Shahariar Rabby
-# #### ID: 151-15-5424
-# #### Sec: F
-# #### Operating System
 
 # **Implement the First Come First Serve (FCFS) non preemptive algorithm by taking user
 # input of the arrival & burst time of different processes.**
