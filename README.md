@@ -39,3 +39,8 @@ predict execution time, several methods can be used to estimate the execution ti
 
 ### Limitation For SJF
  ***Only work when AT = 0 For all process***
+ 
+ ## Python version
+ **For python 3**
+ #### If you want to use in python 2 just change `input = input()` to `raw_input()`
+
